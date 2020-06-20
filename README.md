@@ -1,7 +1,11 @@
 ## 프로젝트 :  https://www.wanted.co.kr/ Clone Coding
 
-- 원본 레파지토리:  https://github.com/wecode-bootcamp-korea/Wepick-frontend 
-- 코딩 1개월차 WeCode 8기 수강생들의 2주 클론 프로젝트입니다.
+- **원본 레파지토리:  https://github.com/wecode-bootcamp-korea/Wepick-frontend** 
+
+  
+
+- 코딩 6주차 WeCode 8기 수강생들의 2주 클론 프로젝트입니다.
+
 - 프론트엔드 3명과 백엔드 2명이 팀을 이뤄 개발했습니다.
 
 <br>
@@ -10,14 +14,13 @@
 
 - 학습한 React를 활용하여 실제 웹사이트처럼 구현하기.
 - React의 꽃인 component와 state, props를 활용하여 React답게 다루어 보기.
-- Fetch메소드를 활용하여 실제 Back-End API의 원하는 데이터를 GET/POST 해보기.
-- React Route를 이용하여 페이지 이동 구현하기.
+- 새롭게 배운 스타일 컴포넌트, Hook 그리고 Redux를 활용하여 프로젝트를 만들기.
 
 <br>
 
 ## 사용된 기술
 
-- Front-End: **ReactJS**, **Sass**
+- Front-End: **ReactJS**, **Styled Componenet**, **hook**, **Redux**
 - Back-End: **Django**, **MySQL** ([Back-End Repository 주소](https://github.com/wecode-bootcamp-korea/aboutteatime-backend))
 - Deployment: **AWS**
 
