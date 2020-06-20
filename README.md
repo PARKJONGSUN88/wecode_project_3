@@ -1,3 +1,17 @@
+**프로젝트 개요**
+
+**velog:**  [https://velog.io/@jongsunpark88/wecode-2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8](https://velog.io/@jongsunpark88/wecode-2차-프로젝트) 
+
+<br>
+
+**프로젝트를 마치며**
+
+**velog:**  [https://velog.io/@jongsunpark88/wecode-2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%A7%88%EC%B9%98%EB%A9%B0](https://velog.io/@jongsunpark88/wecode-2차-프로젝트를-마치며) 
+
+<br>
+
+<br>
+
 ## 프로젝트 :  https://www.wanted.co.kr/ Clone Coding
 
 - **원본 레파지토리:  https://github.com/wecode-bootcamp-korea/Wepick-frontend** 
@@ -20,7 +34,7 @@
 ## 사용된 기술
 
 - Front-End: **ReactJS**, **Styled Componenet**, **hook**, **Redux**
-- Back-End: **Django**, **MySQL** ([Back-End Repository 주소](https://github.com/wecode-bootcamp-korea/aboutteatime-backend))
+- Back-End: **Django**, **MySQL** ([Back-End Repository 주소]( https://github.com/wecode-bootcamp-korea/Wepick-backend ))
 - Deployment: **AWS**
 
 <br>
@@ -58,5 +72,5 @@
 
 ## 구현 화면
 
-https://
+ https://www.youtube.com/watch?v=3sZc05pvuCY 
 
