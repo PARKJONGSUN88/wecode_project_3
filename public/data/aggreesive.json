@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "센트비(Sentbe)",
+            "logo_url": "https://static.wanted.co.kr/images/wdes/0_4.0879c021.jpg",
+            "thumbnail_url": "https://static.wanted.co.kr/images/company/1422/jlo5nocxdxknij0h__400_400.jpg",
+            "number_positions": 1
+        },
+        {
+            "id": 2,
+            "name": "화해(버드뷰)",
+            "logo_url": "https://static.wanted.co.kr/images/wdes/0_4.799382a7.jpg",
+            "thumbnail_url": "https://static.wanted.co.kr/images/company/216/5yktpatbrkyyxkmx__400_400.jpg",
+            "number_positions": 3
+        },
+        {
+            "id": 3,
+            "name": "스튜디오씨드코리아",
+            "logo_url": "https://static.wanted.co.kr/images/wdes/0_4.bc86c537.jpg",
+            "thumbnail_url": "https://static.wanted.co.kr/images/company/452/10104_2_0.f21a4554__400_400.jpg",
+            "number_positions": 1
+        },
+        {
+            "id": 4,
+            "name": "쿨잼컴퍼니",
+            "logo_url": "https://static.wanted.co.kr/images/wdes/0_4_ccf340b5-3748-4a2e-952e-c0f2ca7cb784.jpg",
+            "thumbnail_url": "https://static.wanted.co.kr/images/company/718/yfkoqlnqpk2wmyio__400_400.jpg",
+            "number_positions": 1
+        },
+        {
+            "id": 5,
+            "name": "프렌트립(프립)",
+            "logo_url": "https://static.wanted.co.kr/images/wdes/0_4.7efce19e.jpg",
+            "thumbnail_url": "https://static.wanted.co.kr/images/company/138/rtlukfganehvlsiv__400_400.jpg",
+            "number_positions": 1
+        }
+    ]
+}
