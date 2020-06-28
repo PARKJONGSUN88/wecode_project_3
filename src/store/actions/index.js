@@ -14,6 +14,7 @@ export const changeLogin = check => {
   }
 }
 
+// 로그인 종류에 따른 action
 export const kindLogin = kind => {
   return {
     type:"login_kind",
