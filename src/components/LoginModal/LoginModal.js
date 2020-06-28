@@ -8,7 +8,7 @@ import { withRouter } from "react-router-dom";
 
 const LoginModal = ( { changeModal, changeLogin, modalOnoff, kindLogin, history } ) => {
   // modal 화면 페이지 넘버
-  const [isView, setIsView] = useState(2);
+  const [isView, setIsView] = useState(0);
   // email관련
   const [inputEmail, setInputEmail] = useState(""); //input 이메일 핸들러
   const [isValiEmail, setIsValiEmail] = useState(false); //input validation

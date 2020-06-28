@@ -1,4 +1,4 @@
-const initialState = true;
+const initialState = false;
 
 export const loginCheck = (state = initialState, action) => {
   switch (action.type) {
