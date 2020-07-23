@@ -9,7 +9,7 @@
 **velog:**  https://velog.io/@jongsunpark88/projectW2me
 
 <br>
-
+<img width="1280" alt="want" src="https://user-images.githubusercontent.com/50945715/88271663-74266480-cd12-11ea-8d74-bf23b75004cf.png">
 <br>
 
 ## 프로젝트 :  https://www.wanted.co.kr/ Clone Coding
